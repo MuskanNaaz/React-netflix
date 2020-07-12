@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color:#BEB8EB;
 }
 
 code {
@@ -16,7 +17,8 @@ code {
   text-align: center;
   text-transform: uppercase;
   font-size: 13px;
-  color: #868686;
+  color: #f7efef;
+  background-color: rgb(240, 160, 160);
   font-size: 1.5rem;
   margin-bottom: 30px;
 }
@@ -25,7 +27,7 @@ code {
   width: 100%;
 }
 .card{
-  margin: 2%;
+  margin: 4%;
   transition: all 0.4s cubic-bezier(0.175, 0.885, 0, 1);
   background-color: lightblue;
   width:25%;
